@@ -1,0 +1,114 @@
+body {
+  background-color: #d7ebf2;
+}
+
+.uranus {
+  position: absolute;
+  top: 125px;
+  left: 100px;
+  font-family: "Dongle", sans-serif;
+  font-size: 35px;
+}
+
+.mars {
+  position: absolute;
+  top: 175px;
+  left: 100px;
+  font-family: "Dongle", sans-serif;
+  font-size: 35px;
+}
+
+.jupiter {
+  position: absolute;
+  top: 225px;
+  left: 100px;
+  font-family: "Dongle", sans-serif;
+  font-size: 35px;
+}
+
+.saturn {
+  position: absolute;
+  top: 275px;
+  left: 100px;
+  font-family: "Dongle", sans-serif;
+  font-size: 35px;
+}
+
+h1 {
+  position: absolute;
+  left: 100px;
+  top: 7px;
+  color: rgb(55, 69, 69);
+  font-family: "Mukta", sans-serif;
+}
+
+div {
+  -webkit-box-shadow: 0 0 20px rgb(140, 140, 163);
+  -moz-box-shadow: 0 0 20px rgb(140, 140, 163);
+  box-shadow: 0 0 20px rgb(140, 140, 163);
+  position: relative;
+  border-radius: 30px;
+  background-color: #fff9de;
+  margin: 200px auto auto auto;
+  height: 500px;
+  width: 700px;
+}
+
+.btn1 {
+    position: absolute;
+    top: 375px;
+    left: 75px;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 19px;
+  background: #ff6969;
+  padding: 11px 32px 11px 32px;
+  text-decoration: none;
+}
+
+.btn1:hover {
+  background: #750b0b;
+  text-decoration: none;
+}
+.btn2 {
+    position: absolute;
+    top: 375px;
+    left: 250px;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 19px;
+  background: #ff6969;
+  padding: 11px 21px 11px 21px;
+  text-decoration: none;
+}
+
+.btn2:hover {
+  background: #750b0b;
+  text-decoration: none;
+}
+
+.btn3 {
+    position: absolute;
+    top: 375px;
+    left: 450px;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 19px;
+  background: #ff6969;
+  padding: 11px 21px 11px 21px;
+  text-decoration: none;
+}
+
+.btn3:hover {
+  background: #750b0b;
+  text-decoration: none;
+}
